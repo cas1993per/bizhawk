@@ -1,1 +1,1 @@
-start "" "%VS100COMNTOOLS%\..\IDE\devenv.exe" BizHawk.sln
+start "" "%VS100COMNTOOLS%\..\IDE\devenv.exe" BizHawk.sln 
